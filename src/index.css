@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+html::-webkit-scrollbar {
+  width: 14px;
+  background-color: black;
+}
+
+html::-webkit-scrollbar-thumb {
+  background-color: #00F878;
+  border-radius: 10px;
+  border: 3px solid white;
+}
+

@@ -1,0 +1,20 @@
+header {
+  height: 80px;
+  width: 100%;
+  background: rgb(21,32,43);
+  background: linear-gradient(0deg, rgba(21,32,43,1) 0%, rgba(9,121,50,1) 62%, rgba(0,255,124,1) 100%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media screen and (max-width: 600px) {
+  .logo {
+    width: 200px;
+  }
+
+  header {
+    height: 100px;
+  }
+}
+  

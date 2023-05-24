@@ -1,0 +1,22 @@
+.nf-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  color: #00F878;
+}
+
+.nf-container img {
+  width: 50%;
+}
+
+@media screen and (max-width: 600px) {
+  .nf-container img {
+    width: 75%;
+  }
+  .nf-container h1 {
+    text-align: center;
+    padding: 0 10px;
+  }
+}

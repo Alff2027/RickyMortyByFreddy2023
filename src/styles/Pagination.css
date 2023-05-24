@@ -1,0 +1,24 @@
+.pagination {
+  display: flex;
+  padding: 0;
+}
+
+.page-item {
+  list-style:none;
+  padding: 0 5px;
+}
+
+.page-button {
+  width: 75px;
+  height: 35px;
+  background-color: transparent;
+  border: 1px solid #00F878;
+  border-radius: 5px;
+  color: #00F878;
+}
+
+.page-button:hover {
+  background-color: #00F878;
+  color: #000;
+  cursor: pointer;
+}
