@@ -20,7 +20,7 @@ export default function Footer() {
         <img className='social-icons' src={GitHub} alt='GitHub' />
       </a>
 
-      <a href="https://api.whatsapp.com/send?phone=543765156188" target='_blank' rel="noopener noreferrer">
+      <a href="https://api.whatsapp.com/send?phone=542974243746" target='_blank' rel="noopener noreferrer">
         <img className='social-icons' src={WhatsApp} alt='WhatsApp' />
       </a>
     </div>
