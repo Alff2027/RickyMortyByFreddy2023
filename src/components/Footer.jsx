@@ -8,7 +8,7 @@ export default function Footer() {
   return (
     <footer>
     <a href=" " target='_blank' rel='noopener noreferrer'>
-      <h3>ALFREDO ENCINA</h3>
+      <h3>BACKEND DEVELOPER Y DATA SCIENTIST: ALFREDO R. ENCINA</h3>
     </a>
 
     <div className="social">
@@ -20,7 +20,7 @@ export default function Footer() {
         <img className='social-icons' src={GitHub} alt='GitHub' />
       </a>
 
-      <a href="https://api.whatsapp.com/send?phone=542974243746" target='_blank' rel="noopener noreferrer">
+      <a href="https://api.whatsapp.com/send?phone=542964521316" target='_blank' rel="noopener noreferrer">
         <img className='social-icons' src={WhatsApp} alt='WhatsApp' />
       </a>
     </div>
